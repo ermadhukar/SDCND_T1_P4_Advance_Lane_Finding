@@ -1,7 +1,7 @@
 # SDCND_T1_P4_Advance_Lane_Finding
 UDACITY SDCND Project4: Advanced Lane Finding
 
-In this project of Advance Lane Finding, follwoing points have been considerd:
+In this project of Advance Lane Finding, follwoing points have been considered:
 
 1> Camera Calibration
 
