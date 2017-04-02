@@ -14,4 +14,4 @@ In this project of Advance Lane Finding, follwoing points have been considered:
 Here camera has been calibrated with the given chesboard calibration image and test images have been used for developing the pipeline.
 Images during each steps have been stored at the output_images file. It consists of few images for the camera calibration, test image undistortion, birds eye images and binary threshold images.
 
-This code has been used to get output video for the project video. 
+This code has been used to get output video (project_video_result.mp4) for the project video. 
